@@ -21,3 +21,4 @@ else { (etaNumero >= 18 && etaNumero <65)
     alert("Il tuo prezzo è " + (kmNumero * 0.21) .toFixed(2) + " euro");
 }
 
+//con la sottrazione con numeri funziona lo sconto, con la classe scontoMinorenne no//
